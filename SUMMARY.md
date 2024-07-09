@@ -14,6 +14,6 @@
 ## 컨테이너 관련 AWS 지원 프로그램
 
 * [Meet The Expert](aws-2/meet-the-expert.md)
-* [Webinar (TBU)](aws-2/webinar-tbu.md)
+* [Container Webinar (TBU)](aws-2/container-webinar-tbu.md)
 * [EKS Workshop (TBU)](aws-2/eks-workshop-tbu.md)
 * [Lift-on(TBU)](aws-2/lift-on-tbu.md)
