@@ -8,7 +8,7 @@ description: 컨테이너 이미지의 빌드 및 저장 방법과 그 모범 �
 
 <figure><img src="../.gitbook/assets/container-build-1.png" alt=""><figcaption></figcaption></figure>
 
-컨테이너 이미지를 빌드하기 위해서 일반적으로 [도커](https://www.docker.com/)를&#x20;
+개발자가 애플리케이션을 컨테이너로 배포하기 위해서는 컨테이너 이미지를 빌드하고 배포하는 과정이 필요합니다. 일반적으로, 컨테이너 이미지를 빌드하기 위해서는 일반적으로 [도커](https://www.docker.com/)를 사용하게 되며, Dockerfile이라는 파일에서 해당 컨테이너 이미지를 어떻게 빌드할 것인지 명세를 작성해서 컨테이너 이미지를 빌드합니다. 해당 이미지를 컨테이너 실행 환경에 배포하기 위해서 리모트 컨테이너 이미지 저장소(Container Image Registry) 이미지를 저장(push)하고, 실제 실행환경에서 애플리케이션을 구동하기 위해 저장한 이미지를 받아(pull)와 컨테이너를 실행하게 됩니다.
 
 
 
